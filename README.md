@@ -1,2 +1,2 @@
 # SMTPSp00f
-An email spoofer I wrote back when I was a teenager. Surprisingly, this still works today with most major email platforms
+To run this, you just need a webserver with PHP + an SMTP Daemon installed. Simply upload this file, navigate to it, and you'll see what to do from there.
